@@ -40,6 +40,9 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Makepad Goes 1.0](https://news.ycombinator.com/item?id=43971829)
+
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
